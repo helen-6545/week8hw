@@ -20,6 +20,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.Buttons{
+  background: #808080;
+  color:#0a0a0a;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10%;
+  width: 150px;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;

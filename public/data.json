@@ -1,0 +1,31 @@
+{
+    "Gravity Falls": {
+    "StartingYear":2012,
+    "EndingYear":2016,
+    "Creator":"Alex Hirsch",
+    "SeasonAmount":2},
+
+    "Owl House": {
+    "StartingYear":2020,
+    "EndingYear":2023,
+    "Creator":"Dana Terrace",
+    "SeasonAmount":3},
+
+    "Steven Universe": {
+    "StartingYear":2013,
+    "EndingYear":2019,
+    "Creator":"Rebecca Sugar",
+    "SeasonAmount":5},
+
+    "Infinity Train": {
+    "StartingYear":2019,
+    "EndingYear":2021,
+    "Creator":"Owen Dennis",
+    "SeasonAmount":4},
+
+    "Amphibia": {
+    "StartingYear":2019,
+    "EndingYear":2022,
+    "Creator":"Matt Braly",
+    "SeasonAmount":3}
+    }
