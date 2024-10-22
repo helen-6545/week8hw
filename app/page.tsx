@@ -19,7 +19,7 @@ if(data != null)
 
 const [showData, setShowData] = React.useState([" ", " ", " ", " "]);
 
-function dataFind(num){
+function dataFind(num: number){
 if(data != null){
   DataHotel[0] = data[Titles[num]]["StartingYear"]
   DataHotel[1] = data[Titles[num]]["EndingYear"]
